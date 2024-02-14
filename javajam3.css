@@ -1,0 +1,28 @@
+body	{background-color: #FCEBB6;
+	color:#221811;
+	font-family: Arial,sans-serif;  }
+
+h1	{background-color:#D2B48C; 
+	color:#221811;
+	text-align: center; 
+	line-height: 200%; 
+	 margin-left: 10%;
+	 margin-right:10% ;}
+
+Footer	{background-color:#D2B48C; color:#221811;
+ 	margin-left: 10%;
+	margin-right:10% ;
+	text-align: center; 
+	line-height: 200%; 
+	font-size:.60em;
+	font-style:italic;}
+
+
+
+nav {text-align: center;
+	font-weight:bold;}
+
+#wrapper {    margin-left: auto;
+	      margin-right: auto;
+	      width: 80%; }
+
