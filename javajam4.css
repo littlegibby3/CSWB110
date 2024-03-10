@@ -24,7 +24,10 @@ h4{background-color:#D2B48C;
 	padding-left:.5em;
 	padding-botttom:.25;
 	}
-
+main {
+  margin: 0 auto;
+  width: fit-content;
+}
 
 Footer	{background-color:#D2B48C; color:#221811;
  	margin-left: 10%;
