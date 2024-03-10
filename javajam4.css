@@ -5,6 +5,8 @@ body	{background-color: #FCEBB6;
 
 header{background-color:#D2B48C; 
 	color:#221811;
+       margin-left: 10%;
+	 margin-right:10%;
 	height: 150%; 
 	background-image: url(javajamlogo.jpg);
 	background-repeat: no-repeat;}
