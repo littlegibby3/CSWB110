@@ -18,7 +18,10 @@ Footer	{background-color:#D2B48C; color:#221811;
 	font-size:.60em;
 	font-style:italic;}
 
-
+main {
+  margin: 0 auto;
+  width: fit-content; /* Optional: Adjust width as needed */
+}
 
 nav {text-align: center;
 	font-weight:bold;}
