@@ -24,10 +24,8 @@ h4{background-color:#D2B48C;
 	padding-left:.5em;
 	padding-botttom:.25;
 	}
-main {
-  margin: 0 auto;
-  width: fit-content;
-}
+
+
 
 Footer	{background-color:#D2B48C; color:#221811;
  	margin-left: 10%;
@@ -48,8 +46,7 @@ main{	padding-left: 2em;
 
 img {
   padding-left: 10px;
-  padding-right: 10px;
-}
+  padding-right: 10px;}
 
 nav a { text-decoration: none; }
 
@@ -66,3 +63,5 @@ nav {text-align: center;
 	      width: 80%; 
 		}
 main ,nav ,footer,body{display:block;}
+
+
