@@ -40,7 +40,12 @@ Footer	{background-color:#D2B48C; color:#221811;
 
 main{	padding-left: 2em;
 	padding-bottom: 2em;
-	padding-right: 2em;}
+	padding-right: 2em;
+     	 margin-left: 10%;
+	 margin-right:10%;}
+
+     	
+
 	
 .details { padding-left: 20%;
 		   padding-right: 20%; }
