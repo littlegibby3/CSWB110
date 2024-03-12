@@ -5,6 +5,8 @@ body	{background-color: #FCEBB6;
 
 header{background-color:#D2B48C; 
 	color:#221811;
+       margin-left: 10%;
+	 margin-right:10%;
 	height: 150%; 
 	background-image: url(javajamlogo.jpg);
 	background-repeat: no-repeat;}
@@ -26,7 +28,6 @@ h4{background-color:#D2B48C;
 	}
 
 
-
 Footer	{background-color:#D2B48C; color:#221811;
  	margin-left: 10%;
 	margin-right:10% ;
@@ -46,7 +47,8 @@ main{	padding-left: 2em;
 
 img {
   padding-left: 10px;
-  padding-right: 10px;}
+  padding-right: 10px;
+}
 
 nav a { text-decoration: none; }
 
@@ -63,5 +65,3 @@ nav {text-align: center;
 	      width: 80%; 
 		}
 main ,nav ,footer,body{display:block;}
-
-
