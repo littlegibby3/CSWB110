@@ -140,7 +140,7 @@ main { padding-top: 1px}
 h2 { padding: 0.5em; 0; 0; 0.5em; margin-right: 0.5em;}
 .details { padding-left:0; padding-right:0; }
 #heroroad,#heromugs,#heroguitar { background-image: none; height: auto;}
-.floatleft {padding-right: 0.5em; padding-bottom: 0.5em; }
+.floatleft {padding-left: 0.5em; padding-right: 0.5em; }
 #mobile { display: inline; }
 #desktop {display: none; }
 
