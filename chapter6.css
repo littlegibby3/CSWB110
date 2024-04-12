@@ -48,10 +48,7 @@ h4 { background-color:#D2B48C;
 
 
 footer	{background-color:#D2B48C; color:#221811;
- 	margin-left: 10%;
-	margin-right: 10% ;
 	text-align: center; 
-	line-height: 200%; 
 	font-size: .60em;
 	font-style:italic;
 	padding-bottom: 10px;
@@ -100,7 +97,8 @@ nav { text-align: center;
   	width: 200px; }
 
 #wrapper {   background-color: #231814;
-	      min-width: 900px; max-width: 1280px;
+	      min-width: 900px; 
+	      max-width: 1280px;
 	      box-shadow: 3px 3px 3px #333;
 	      margin-left: auto;
 	      margin-right: auto;
