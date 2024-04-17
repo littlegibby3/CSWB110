@@ -114,7 +114,12 @@ main ,nav ,footer,body{display:block;}
 #mobile { display: none; }
 #desktop {display: inline;}
 
-
+table { width: 90%;
+ margin: auto; 
+border-spacing: 0;
+background-color: #FCEBB6; }
+th, td { padding: 10px; }
+tr:nth-of-type(odd) { background-color: #D2B48C;}
 
 @media only screen and (max-width: 1024px) {
 body {margin: 0; background-image: none;}
