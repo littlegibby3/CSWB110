@@ -22,17 +22,13 @@ header, main ,nav ,footer { display:block; }
   background-size: 100% 100%;
   height: 250px; } 
 
-#herojobs {
-  background-image: url(herojobs.jpg); 
-  background-size: 100% 100%;
-  height: 250px; } 
-
 #herocouch {
   height: 250px;
   background-image: url("herocouch.jpg");
-  background-size: cover;
-  background-position: center;
+  background-size: cover; 
+  background-position: center; 
 }
+
 body { background-color: #FCEBB6;
 	color:#221811;
 	font-family: Arial,sans-serif;
@@ -57,7 +53,7 @@ h4 { background-color:#D2B48C;
 	padding-left: .5em;
 	padding-bottom: .25em;
 	text-transform: uppercase;
-	border-bottom: 1px solid #FEF6C2; 
+	border-bottom: 1px solid #ccc; 
   	padding-bottom: 10px;
   	clear: left; }
 
@@ -150,8 +146,6 @@ padding-right: 1em; }
 
 input, textarea {display: block; margin-bottom: 1em; }
 #mySubmit { margin-left: 9.5em; }
-
-audio { display: block; margin-bottom: 1em; }
 
 @media only screen and (max-width: 1024px) {
 body {margin: 0; background-image: none;}
