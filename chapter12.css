@@ -22,6 +22,17 @@ header, main ,nav ,footer { display:block; }
   background-size: 100% 100%;
   height: 250px; } 
 
+#herojobs {
+  background-image: url(herojobs.jpg); 
+  background-size: 100% 100%;
+  height: 250px; } 
+
+#herocouch {
+  height: 250px;
+  background-image: url("herocouch.jpg");
+  background-size: cover;
+  background-position: center;
+}
 body { background-color: #FCEBB6;
 	color:#221811;
 	font-family: Arial,sans-serif;
@@ -113,7 +124,12 @@ nav { text-align: center;
 
 main ,nav ,footer,body{display:block;}
 
-
+.item {
+  background-color: #FAF9F7;
+  margin: 2em 3em 2em 3em; 
+  width: 80%;
+  padding: 1em;
+  overflow: auto; }
 
 #mobile { display: none; }
 #desktop {display: inline;}
