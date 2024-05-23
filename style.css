@@ -1,0 +1,40 @@
+/* Initial styles */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Added styles for the navigation menu */
+nav {
+    background-color: #e0e0e0;
+    padding: 10px;
+    text-align: center; /* Center the navigation links horizontally */
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; /* Remove default bullet points */
+}
+
+nav li {
+    display: inline-block; /* Display navigation items inline */
+    margin: 10px;
+}
+
+/* Added styles for the footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #e0e0e0;
+}
